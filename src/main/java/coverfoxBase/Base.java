@@ -16,6 +16,7 @@ import coverfoxUtility.Utility;
 
 public class Base {
 	
+	// base class updated
 	//driver
 	//url
 	//open browser/ launch 
@@ -55,6 +56,7 @@ public class Base {
 		Reporter.log("Closing browser", true);
 		driver.quit();
 	}
+	
 			
 
 }
