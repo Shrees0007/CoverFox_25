@@ -17,6 +17,7 @@ import coverfoxUtility.Utility;
 public class Base {
 	
 	// base class updated
+	// created new branch
 	//driver
 	//url
 	//open browser/ launch 
